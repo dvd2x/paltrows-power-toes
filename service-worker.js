@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/paltrows-power-toes/precache-manifest.1a1b065f813ad1ea3f2541c210db840e.js"
+  "/paltrows-power-toes/precache-manifest.f44bed00d186c56468e19c2b0b9e9662.js"
 );
 
 workbox.clientsClaim();
